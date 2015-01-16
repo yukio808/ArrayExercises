@@ -1,21 +1,24 @@
 Standard arrays
 Create an array of the colors of the rainbow.
 Create an array of gems.
-Create an array of gem arrays, where each gem array are of a similar color.
 Create an array of military ranks.
 Create an array of road signs.
 Create an array containing components of a tree.
-Create an array of People objects, where each object has a name and age.
 Create an array of prime numbers less than 20.
+Create an array of words programmers typically say while programming.
+Create an array of elements.
+Create an array representing the coins currently in your pocket.
+Create an array of items you bring to class daily.
 
+Object arrays:
+Create an array of People objects, where each object has a name and age.
+Create an array of songs you'd like Jon to add to the playlist of music to listen to in class.  Each song should be an object with at least a title and an artist.
 
 Nested arrays
-
+Create an array of gem arrays, where each gem array are of a similar color.
+Create an array of aisles at a supermarket.  Each aisle is an aisle of items you might find in an aisle, together.
 
 Atypical arrays
 Create an array with three elements, each consisting of a single character:: single quotes, double quotes, and a comma.
 Create an array of 1000 elements.  (Contents do not matter, it just needs to have 1000 elements.)
 
-
-
-Create an array of 
