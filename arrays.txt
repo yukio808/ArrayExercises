@@ -9,10 +9,12 @@ Create an array of words programmers typically say while programming.
 Create an array of elements.
 Create an array representing the coins currently in your pocket.
 Create an array of items you bring to class daily.
+Create an array of web developer roles.
 
 Object arrays:
 Create an array of People objects, where each object has a name and age.
 Create an array of songs you'd like Jon to add to the playlist of music to listen to in class.  Each song should be an object with at least a title and an artist.
+Create an array of functions.
 
 Nested arrays
 Create an array of gem arrays, where each gem array are of a similar color.
@@ -22,3 +24,8 @@ Atypical arrays
 Create an array with three elements, each consisting of a single character:: single quotes, double quotes, and a comma.
 Create an array of 1000 elements.  (Contents do not matter, it just needs to have 1000 elements.)
 
+Hard mode
+Create an array of three elements.  The first and second elements should not be equal, the second and third elements should not be equal, but the first and third elements should be equal.
+Create an array of at least five elements where each element is equal to the elements adjacent to it.
+Create an array of at least five reserved Javascript keywords.
+Create an array of an array of an array of an array of an array of an array containing a single element: the number 42.
