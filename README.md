@@ -6,7 +6,7 @@ Build arrays and insert data from plain english specifications.
 2. use `nodemon` to help your work flow. e.g. `nodemon build_arrays.js`
 
 
-## There are Four levels of Difficulty
+## There are Four levels
 
 ### Level 1 - Standard Arrays
 a typical "make an array of a list of ____"
