@@ -1,0 +1,21 @@
+Standard arrays
+Create an array of the colors of the rainbow.
+Create an array of gems.
+Create an array of gem arrays, where each gem array are of a similar color.
+Create an array of military ranks.
+Create an array of road signs.
+Create an array containing components of a tree.
+Create an array of People objects, where each object has a name and age.
+Create an array of prime numbers less than 20.
+
+
+Nested arrays
+
+
+Atypical arrays
+Create an array with three elements, each consisting of a single character:: single quotes, double quotes, and a comma.
+Create an array of 1000 elements.  (Contents do not matter, it just needs to have 1000 elements.)
+
+
+
+Create an array of 
