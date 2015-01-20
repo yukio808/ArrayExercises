@@ -12,10 +12,10 @@ Then checkout the branch of the next level.
 
 `git checkout level_3`
 
-_notice your `build_arrays.js` file no longer has your original arrays from `master` branch_  
-merge your changes from `master`  
+_notice your `build_arrays.js` file no longer has your original arrays from `level_3` branch_  
+merge your changes from `level_3`  
 
-`git merge master`  
+`git merge level_3`  
 _a commit message may appear, save and quit the commit message editor_  
 
 review your `build_arrays.js` file again, did your changes merge in properly?  
