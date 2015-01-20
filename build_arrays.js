@@ -100,3 +100,31 @@
 
 
 
+/*
+ * LEVEL 4 - 
+ **/
+
+// Create an array with three elements, each consisting of a single 
+// character: single quotes, double quotes, and a comma.
+
+
+// Create an array of 1000 elements.  
+// (Contents do not matter, it just needs to have 1000 elements.)
+
+
+// Create an array of three elements.  
+// The first and second elements should not be equal, the second and 
+// third elements should not be equal, but the first and third elements 
+// should be equal.
+
+
+// Create an array of at least five elements where each element is equal 
+// to the elements adjacent to it.
+
+
+// Create an array of at least five reserved Javascript keywords.
+
+
+// Create an array of an array of an array of an array of an array of an 
+// array containing a single element: the number 42.
+
