@@ -8,6 +8,5 @@ Build arrays and insert data from plain english specifications.
 3. use `nodemon` to help your work flow. e.g. `nodemon build_arrays.js`
 
 Once you are done, commit and push your work.  
-Then checkout the branch of the next level.  
-
-`git checkout level_2`
+then, merge this branch into your `master` branch. then push that branch.  
+this completes the exercise.
