@@ -61,7 +61,7 @@
 
 // Create an array of Objects that represent Famous People.
 // Each Object should have a Name, Age, and their Profession as properties
-
+var  famouspeople = []
 
 // Create an array of songs you'd like Jon to add to the playlist of music 
 // to listen to in class.  Each song should be an object with at least 
